@@ -1,38 +1,155 @@
-<h1 align="center">Hi 👋, I'm Veneel Kumar A</h1>
-<h3 align="center">An aspiring Data Scientist & AI Engineer passionate about Machine Learning, Generative AI, Agentic AI, and Cloud-based AI Solutions.</h3>
+<h1 align="center">🚀 Hi, I'm Veneel Kumar A</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veneel77" alt="veneel77" /></a> </p>
+<h3 align="center">
+AI Engineer • Machine Learning Engineer • Data Scientist
+</h3>
 
-- 🔭 I’m currently working on [Agentic AI Systems using LangGraph, RAG Pipelines, and Multi-Agent Workflows](https://github.com/Veneel77)
-
-- 🌱 I’m currently learning **angGraph, Advanced RAG Architectures, MLOps, Apache Spark, Airflow, AWS SageMaker, and Scalable AI Systems**
-
-- 👯 I’m looking to collaborate on **Generative AI, Agentic AI, RAG Applications, MLOps, and End-to-End Machine Learning Projects**
-
-- 🤝 I’m looking for help with **Production-grade AI Systems, MLOps, Distributed AI Applications, and Open Source AI Contributions**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Veneel77](https://github.com/Veneel77)
-
-- 📝 I regularly write articles on [LinkedIn (Planning to share AI, Data Science & Career content)](LinkedIn (Planning to share AI, Data Science & Career content))
-
-- 💬 Ask me about **Machine Learning, Generative AI, RAG, LangChain, LangGraph, FastAPI, Python, SQL, AWS, Data Science, and MLOps**
-
-- 📫 How to reach me **veneeldas77@gmail.com**
-
-- 📄 Know about my experiences [https://linkedin.com/in/veneelkumar77](https://linkedin.com/in/veneelkumar77)
-
-- ⚡ Fun fact **There is no fact about me is funny so don't try to laugh(Just For Fun🤣)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/veneel_das77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veneel_das77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/veneelkumara77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veneelkumara77" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/veneel_kumar_a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/veneel_kumar_a/" height="30" width="40" /></a>
+<p align="center">
+Building intelligent systems with Machine Learning, Generative AI, Data Engineering, and MLOps.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+From raw data → scalable pipelines → production AI systems.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veneel77&show_icons=true&locale=en&layout=compact" alt="veneel77" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veneel77&show_icons=true&locale=en" alt="veneel77" /></p>
+## 🧠 About Me
+
+I'm an aspiring AI Engineer passionate about transforming data into intelligent products.
+
+My interests lie at the intersection of:
+
+* 🤖 Machine Learning & Deep Learning
+* 🧩 Agentic AI & Multi-Agent Systems
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ☁️ Cloud-Native AI Applications
+* ⚙️ MLOps & Production AI
+* 📊 Data Engineering & Distributed Computing
+
+I enjoy building end-to-end AI systems that move beyond notebooks and into real-world deployment.
+
+---
+
+## 🚀 Currently Building
+
+🔹 Agentic AI Workflows with LangGraph
+
+🔹 Multi-Agent Systems & AI Automation
+
+🔹 Retrieval-Augmented Generation (RAG) Applications
+
+🔹 Production-Ready ML APIs using FastAPI
+
+🔹 End-to-End MLOps Pipelines
+
+🔹 Distributed Data Processing with Apache Spark
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced RAG Architectures
+* LangGraph Design Patterns
+* Apache Spark & Distributed Computing
+* Apache Airflow
+* AWS SageMaker
+* Production MLOps
+* Scalable AI Infrastructure
+
+---
+
+## 🎯 Career Interests
+
+✔ Data Scientist
+
+✔ Machine Learning Engineer
+
+✔ AI Engineer
+
+✔ MLOps Engineer
+
+✔ Data Engineer
+
+✔ Python Backend Engineer
+
+---
+
+## 🛠 Core Technologies
+
+### Artificial Intelligence & Machine Learning
+
+Python • Scikit-Learn • TensorFlow • PyTorch • OpenCV
+
+### Generative AI
+
+LangChain • LangGraph • RAG • LLM Applications • Vector Databases
+
+### Data Engineering
+
+Apache Spark • Kafka • Airflow • SQL • Hadoop
+
+### Cloud & MLOps
+
+AWS • Docker • Kubernetes • MLflow • CI/CD
+
+### Backend Development
+
+FastAPI • Flask • Django
+
+### Analytics
+
+Power BI • Pandas • SQL
+
+---
+
+## 🌟 What I Believe
+
+Modern AI is not just about training models.
+
+The real challenge is designing systems that can:
+
+📥 Ingest Data
+
+⚙ Process Information
+
+🧠 Learn Patterns
+
+🚀 Deploy Reliably
+
+📊 Monitor Continuously
+
+📈 Create Business Impact
+
+---
+
+## 🤝 Open For Collaboration
+
+* Generative AI Projects
+* Agentic AI Applications
+* RAG Systems
+* MLOps Platforms
+* Data Engineering Projects
+* Open Source AI Contributions
+
+---
+
+## 📫 Let's Connect
+
+💼 LinkedIn:
+linkedin.com/in/veneelkumar77
+
+💻 GitHub:
+github.com/Veneel77
+
+📧 Email:
+[veneeldas77@gmail.com](mailto:veneeldas77@gmail.com)
+
+🧩 LeetCode:
+leetcode.com/u/veneel_kumar_a
+
+---
+
+<p align="center">
+<i>"Building the bridge between Data, AI, Cloud, and Production Systems."</i>
+</p>
