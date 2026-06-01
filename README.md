@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veneel Kumar A</h1>
 <h3 align="center">An aspiring Data Scientist & AI Engineer passionate about Machine Learning, Generative AI, Agentic AI, and Cloud-based AI Solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veneel77&label=Profile%20views&color=0e75b6&style=flat" alt="veneel77" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veneel77" alt="veneel77" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/veneel_das77" target="blank"><img src="https://img.shields.io/twitter/follow/veneel_das77?logo=twitter&style=for-the-badge" alt="veneel_das77" /></a> </p>
 
 - 🔭 I’m currently working on [Agentic AI Systems using LangGraph, RAG Pipelines, and Multi-Agent Workflows](https://github.com/Veneel77)
 
